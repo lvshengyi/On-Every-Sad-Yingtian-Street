@@ -1,0 +1,389 @@
+{
+    "musics": [
+        {
+            "id": 55,
+            "name": "李志 - 黑色信封 (2016 unplugged)",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 暧昧.mp3"
+        },
+        {
+            "id": 1,
+            "name": "李志 - 暧昧",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 暧昧.mp3"
+        },
+        {
+            "id": 2,
+            "name": "李志 - 春末的南方城市",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 春末的南方城市.mp3"
+        },
+        {
+            "id": 3,
+            "name": "李志 - 董卓瑶",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 董卓瑶.mp3"
+        },
+        {
+            "id": 4,
+            "name": "李志 - 梵高先生",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 梵高先生.mp3"
+        },
+        {
+            "id": 5,
+            "name": "李志 - 广场",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 广场.mp3"
+        },
+        {
+            "id": 6,
+            "name": "李志 - 来了",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 来了.mp3"
+        },
+        {
+            "id": 7,
+            "name": "李志 - 你离开了南京，从此没有人和我说话",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 你离开了南京，从此没有人和我说话.mp3"
+        },
+        {
+            "id": 8,
+            "name": "李志 - 想起了他",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 想起了他.mp3"
+        },
+        {
+            "id": 9,
+            "name": "李志 - 斜",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 斜.mp3"
+        },
+        {
+            "id": 10,
+            "name": "李志 -  阿兰",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 -  阿兰.mp3"
+        },
+        {
+            "id": 11,
+            "name": "李志 - 被禁忌的游戏",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 被禁忌的游戏.mp3"
+        },
+        {
+            "id": 12,
+            "name": "李志 - 红色气球",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 红色气球.mp3"
+        },
+        {
+            "id": 13,
+            "name": "李志 - 欢愉",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 欢愉.mp3"
+        },
+        {
+            "id": 14,
+            "name": "李志 - 卡夫卡",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 卡夫卡.mp3"
+        },
+        {
+            "id": 15,
+            "name": "李志 - 离婚",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 离婚.mp3"
+        },
+        {
+            "id": 16,
+            "name": "李志 - 罗庄的冬天",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 罗庄的冬天.mp3"
+        },
+        {
+            "id": 17,
+            "name": "李志 - 信封",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 信封.mp3"
+        },
+        {
+            "id": 18,
+            "name": "李志 - 海的女儿",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 海的女儿.mp3"
+        },
+        {
+            "id": 19,
+            "name": "李志 - 和你在一起",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 和你在一起.mp3"
+        },
+        {
+            "id": 20,
+            "name": "李志 - 交河(乐曲)",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 交河(乐曲).mp3"
+        },
+        {
+            "id": 21,
+            "name": "李志 - 喀纳斯",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 喀纳斯.mp3"
+        },
+        {
+            "id": 22,
+            "name": "李志 - 妈妈",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 妈妈.mp3"
+        },
+        {
+            "id": 23,
+            "name": "李志 - 人民不需要自由",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 人民不需要自由.mp3"
+        },
+        {
+            "id": 24,
+            "name": "李志 - 他们",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 他们.mp3"
+        },
+        {
+            "id": 25,
+            "name": "李志 - 翁庆年的六英镑",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 翁庆年的六英镑.mp3"
+        },
+        {
+            "id": 26,
+            "name": "李志 - 我们不能失去信仰(献给刘艺)",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 我们不能失去信仰(献给刘艺).mp3"
+        },
+        {
+            "id": 27,
+            "name": "李志 - 这个世界会更好吗",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 这个世界会更好吗.mp3"
+        },
+        {
+            "id": 28,
+            "name": "李志 - 带亲",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 带亲.mp3"
+        },
+        {
+            "id": 29,
+            "name": "李志 - 关于郑州的记忆",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 关于郑州的记忆.mp3"
+        },
+        {
+            "id": 30,
+            "name": "李志 - 忽然",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 忽然.mp3"
+        },
+        {
+            "id": 31,
+            "name": "李志 - 路（李志、邵夷贝）",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 路（李志、邵夷贝）.mp3"
+        },
+        {
+            "id": 32,
+            "name": "李志 - 铅笔(吉松浩版)",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 铅笔(吉松浩版).mp3"
+        },
+        {
+            "id": 33,
+            "name": "李志 - 铅笔",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 铅笔.mp3"
+        },
+        {
+            "id": 34,
+            "name": "李志 - 墙上的向日葵",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 墙上的向日葵.mp3"
+        },
+        {
+            "id": 35,
+            "name": "李志 - 秋天的老狼",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 秋天的老狼.mp3"
+        },
+        {
+            "id": 36,
+            "name": "李志 - 她",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 她.mp3"
+        },
+        {
+            "id": 37,
+            "name": "李志 - 夜",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 夜.mp3"
+        },
+        {
+            "id": 38,
+            "name": "李志 - 杭州",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 杭州.mp3"
+        },
+        {
+            "id": 39,
+            "name": "李志 - 尽头",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 尽头.mp3"
+        },
+        {
+            "id": 40,
+            "name": "李志 - 门",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 门.mp3"
+        },
+        {
+            "id": 41,
+            "name": "李志 - 你的早晨",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 你的早晨.mp3"
+        },
+        {
+            "id": 42,
+            "name": "李志 - 女神",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 女神.mp3"
+        },
+        {
+            "id": 43,
+            "name": "李志 - 日",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 日.mp3"
+        },
+        {
+            "id": 44,
+            "name": "李志 - 山阴路的夏天",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 山阴路的夏天.mp3"
+        },
+        {
+            "id": 45,
+            "name": "李志 - 下雨",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 下雨.mp3"
+        },
+        {
+            "id": 46,
+            "name": "李志 - 寻找",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 寻找.mp3"
+        },
+        {
+            "id": 47,
+            "name": "李志 - 不多",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 不多.mp3"
+        },
+        {
+            "id": 48,
+            "name": "李志 - 定西",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 定西.mp3"
+        },
+        {
+            "id": 49,
+            "name": "李志 - 方式",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 方式.mp3"
+        },
+        {
+            "id": 50,
+            "name": "李志 - 好威武支持有希望",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 好威武支持有希望.mp3"
+        },
+        {
+            "id": 51,
+            "name": "李志 - 看见",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 看见.mp3"
+        },
+        {
+            "id": 52,
+            "name": "李志 - 热河",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 热河.mp3"
+        },
+        {
+            "id": 53,
+            "name": "李志 - 鼠说",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 鼠说.mp3"
+        },
+        {
+            "id": 54,
+            "name": "李志 - 大象",
+            "singer": "lizhi",
+            "cover": "./img/cover_default.jpg",
+            "src": "./music/李志 - 大象.mp3"
+        }
+    ]
+}

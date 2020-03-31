@@ -1,0 +1,197 @@
+@import '../iconfont/iconfont.css';
+/*唱片旋转动画*/
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+/*vue组件过渡动画*/
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.5s;
+}
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
+}
+#app {
+  padding-top: 44px;
+  text-align: center;
+}
+/*控制条*/
+.control-bar {
+  width: 100%;
+  height: 44px;
+  background: #242424;
+  border-bottom: 3px solid #C20C0C;
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+.control-bar__btn {
+  margin-left: 10px;
+  color: #fff;
+  line-height: 42px;
+  padding: 0 10px;
+}
+.control-bar__btn .iconfont {
+  font-size: 20px;
+}
+.control-bar__btn_left {
+  float: left;
+}
+.control-bar__btn_right {
+  float: right;
+}
+/*播放器*/
+.player {
+  overflow: hidden;
+  position: relative;
+  margin: 0 auto;
+  background-color: #15c6a3;
+  border-radius: 8px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+  display: inline-block;
+  padding: 40px;
+  margin-top: 30px;
+}
+.player__pickups {
+  position: absolute;
+  top: 0;
+  left: 124px;
+  z-index: 2;
+}
+.player__pickups__axis {
+  width: 30px;
+  height: 10px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  background-image: url('../assets/imgs/axis.png');
+}
+.player__pickups__pole {
+  width: 80px;
+  height: 100px;
+  position: absolute;
+  top: 0px;
+  left: 10px;
+  z-index: 1;
+  background-image: url('../assets/imgs/pickups.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  transform-origin: top left;
+  transform: rotate(-38deg);
+  transition: transform 1s;
+}
+.player__disc {
+  width: 206px;
+  height: 206px;
+  background-image: url('../assets/imgs/coverall.png');
+  background-repeat: no-repeat;
+  background-position: -140px -580px;
+  animation: rotate 35s linear 1s infinite;
+  animation-play-state: paused;
+}
+.player__disc__cover {
+  width: 132px;
+  height: 132px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  overflow: hidden;
+}
+.player__disc__cover img {
+  width: 100%;
+  height: 100%;
+}
+.player__logo {
+  width: 40px;
+  height: 45px;
+  position: absolute;
+  bottom: 15px;
+  right: 20px;
+}
+/*拾音器的杆子过渡动画*/
+.player.on .player__pickups__pole {
+  transform: rotate(0deg);
+}
+/*唱片动画*/
+.player.on .player__disc {
+  animation-play-state: running;
+}
+/*播放列表*/
+.mask {
+  position: fixed;
+  top: 44px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 99;
+  background: rgba(0, 0, 0, 0.4);
+}
+.playlist {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.playlist__head {
+  width: 100%;
+  height: 40px;
+  color: #fff;
+  background: #242424;
+}
+.playlist__title {
+  line-height: 40px;
+  font-size: 12px;
+  font-weight: inherit;
+  float: left;
+  margin: 0;
+  margin-left: 15px;
+}
+.playlist__btnclose {
+  float: right;
+  line-height: 40px;
+  font-size: 12px;
+  padding: 0 15px;
+  color: #bbb;
+}
+.playlist__body {
+  width: 100%;
+  height: 300px;
+  background-color: #fff;
+}
+.playlist__body__list {
+  height: 100%;
+  overflow-y: auto;
+}
+.playlist__body__list .list__item {
+  line-height: 38px;
+  padding: 0 15px;
+  font-size: 14px;
+  border: 1px solid #eee;
+  text-align: left;
+  color: #333;
+}
+.playlist__body__list .list__item:nth-child(odd) {
+  background-color: #eee;
+}
+.playlist__body__list .list__item.active {
+  color: #15c6a3;
+}
+.playlist__body__list .list__item .iconfont {
+  font-size: 13px;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+.playlist__body__list .list__item .item__name {
+  font-size: 12px;
+}
